@@ -8,7 +8,7 @@ The precision for high_risk is low, which indicating an overfitting for the low_
 - Balance Accuracy Score: 0.640
 - Precision Score: 0.01
 - Recall Score: 0.66
-<br> ![random_oversampling.png](Module-17-Challenge-Resources/images/random_oversampling..png)
+<br> ![random_oversampling.png](Module-17-Challenge-Resources/images/random_oversampling.png)
 <br> Naive Random Oversampling Imbalanced Classification Report
 ### SMOTE Oversampling
 The precision for high_risk is low, which indicating an overfitting for the low_risk. Also, the recall score stands for the sensitivity that for both cases, the scores are not ideal and lower than the accuracy score. 
